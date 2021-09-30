@@ -1,6 +1,6 @@
 
 # Contributing
-
+[![Build Status](https://dev.azure.com/prasad24571/my-sample-project1/_apis/build/status/prasad24571.jav111?branchName=master)](https://dev.azure.com/prasad24571/my-sample-project1/_build/latest?definitionId=7&branchName=master)
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
